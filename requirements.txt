@@ -1,2 +1,2 @@
-Flask
-ffmpeg-python
+Flask==2.2.2
+ffmpeg-python==0.2.0
